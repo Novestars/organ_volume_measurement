@@ -11,7 +11,7 @@ Academic Radiology (Under major revision)
 ## **Inference**
 
 #### Please use jupyter-notebook.
-#### Colab link: https://colab.research.google.com/drive/1_bTpvVN_85p6I4wMtRiiBZB5KT7nCsgc?usp=sharing
+#### Colab link: [https://colab.research.google.com/drive/1_bTpvVN_85p6I4wMtRiiBZB5KT7nCsgc?usp=sharing](https://colab.research.google.com/drive/1ERM0X_n2cY0SHMkWsbJ2Tv6dzRHF0wLl?usp=sharing)
 
 ## Contact
 
