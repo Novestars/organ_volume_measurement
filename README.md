@@ -8,7 +8,7 @@ This code is strictly for research purposes and is not intended for clinical, di
 
 ## Academic Imaging Professionals Seeking Organ Segmentations
 
-Please download model checkpoints from this [repository](https://github.com/Novestars/organ_volume_measurement/blob/pancreatic_cyst/pancreatic_cyst_seg_model_checkpoints.zip).
+Please download model checkpoints from [here](https://huggingface.co/szxhu/panc_cyst_segmentation/tree/main).
 
 ## Individuals Seeking Kidney Volume Measurements (2 steps)
 
