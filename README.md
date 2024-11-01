@@ -33,10 +33,8 @@ For those without access to a GPU server, our Google Colab notebook offers a pra
      416 E 55th St.  
      New York, NY 10022  
      ```
-### 2. **Provide Your Information:** 
-To enable our medical records team to process external studies, please complete the form. 
-   - Download the form here and fill it out: [Information Form](https://docs.google.com/document/d/1PrVgQNgWP4-ynBI1yuNHDadEK7shuUxA/edit?usp=sharing&ouid=107183000046989518204&rtpof=true&sd=true)  
-   - Mail this form with your CD, or send it electronically to: <chz4009@med.cornell.edu>
+### 2. **Website:** 
+**Traceorg:** www.traceorg.com
 
 ## Contact
 
